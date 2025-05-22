@@ -1,3 +1,8 @@
+---
+layout: default
+title: Step Analysis Report
+---
+
 # Weekly Step Analysis Report 🚶‍♂️
 
 ## Overview
